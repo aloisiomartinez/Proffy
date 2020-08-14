@@ -48,6 +48,9 @@ function TeacherList() {
               { value: 'Português', label: 'Português'},
               { value: 'Química', label: 'Química'},
               { value: 'Física', label: 'Física'},
+              { value: 'Geografia', label: 'Física'},
+              { value: 'História', label: 'Física'},
+
             ]}  
           />
            <Select 
