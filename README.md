@@ -1,5 +1,6 @@
-<div>
-  <img src="Proffy.png" width="500">
-  <img src="Proffy2.png" width="500">
+# Proffy
+### Proffy is a project made with the goal of connecting students to teacher, made in Next Level Week#2 by [Rocketseat](https://rocketseat.com.br/)
 
-</div>
+# Screenshot
+![Proffy](Proffy.png)
+![Proffy](Proffy2.png)
