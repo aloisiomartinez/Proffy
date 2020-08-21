@@ -1,2 +1,2 @@
-![Screenshot](Proffy.png)
-![Screenshot](Proffy2.png)
+<img src="Proffy.png" width="200">
+<img src="Proffy2.png" width="200">
